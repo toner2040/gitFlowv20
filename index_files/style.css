@@ -149,7 +149,7 @@ table {
 }
 
 body {
-	background: url(img/fon.png);
+	background: url(http://servicenadom.ru/wp-content/themes/it-men/img/fon.png);
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 }
@@ -168,7 +168,7 @@ input {
 }
 
 .footer {   
-	background: #fff url(img/sidebar.png) left top repeat-y;
+	background: #fff url(http://servicenadom.ru/wp-content/themes/it-men/img/sidebar.png) left top repeat-y;
 }
 
 .page-header .header-left {
@@ -320,7 +320,7 @@ li.bold > a {
 .page-header .header-right {
 	height: 285px;
 	background-color: #fff;
-	background-image: url(img/header-bg.jpg);
+	background-image: url(http://servicenadom.ru/wp-content/themes/it-men/img/header-bg.jpg);
 	background-repeat: no-repeat;
 	background-position: right center;
 	position: relative;
@@ -338,7 +338,7 @@ li.bold > a {
 	position: absolute;    
 	right: 0;    
 	bottom: 0;   
-	/*background: url(img/header-contacts.png) top left no-repeat;*/  
+	/*background: url(http://servicenadom.ru/wp-content/themes/it-men/img/header-contacts.png) top left no-repeat;*/  
 	background: #da1a1a;
 	width: 300px;   
 	height: 87px;   
@@ -365,7 +365,7 @@ li.bold > a {
 }
 
 .page-content {	
-	background: #fff url(img/sidebar.png) left top repeat-y;
+	background: #fff url(http://servicenadom.ru/wp-content/themes/it-men/img/sidebar.png) left top repeat-y;
 }
 
 @media (min-width:1200px) {
@@ -378,7 +378,7 @@ li.bold > a {
 @media (min-width:992px) and (max-width:1199px){	
 	.footer,
 	.page-content {		
-		background: #fff url(img/sidebar2.png) left top repeat-y;
+		background: #fff url(http://servicenadom.ru/wp-content/themes/it-men/img/sidebar2.png) left top repeat-y;
 	}
 	
 	.page-content #desktop-elements {	
@@ -401,7 +401,7 @@ li.bold > a {
 @media (min-width:768px) and (max-width:991px){		
 	.footer,	
 	.page-content {		
-		background: #fff url(img/sidebar3.png) left top repeat-y;	
+		background: #fff url(http://servicenadom.ru/wp-content/themes/it-men/img/sidebar3.png) left top repeat-y;	
 	}		
 
 	.page-content #desktop-elements {
@@ -563,7 +563,7 @@ table tr td a:hover {
 }
 
 table tr td:first-child { 
-background-image: url(img/main-table.png); 
+background-image: url(http://servicenadom.ru/wp-content/themes/it-men/img/main-table.png); 
 background-repeat: no-repeat;   
 padding: 12px 15px 12px 45px;  
 background-position: 19px 50%;
@@ -582,7 +582,7 @@ table tr:nth-child(odd) td {
 }
 
 .page-footer {  
-	background: #f0f0f0 url(img/page-footer.png) top left no-repeat;
+	background: #f0f0f0 url(http://servicenadom.ru/wp-content/themes/it-men/img/page-footer.png) top left no-repeat;
 	padding: 10px 25px 10px 45px;   
 	margin: 0 -15px 0 0px;
 }
@@ -607,7 +607,7 @@ table tr:nth-child(odd) td {
 	width: 9px;  
 	height: 5px; 
 	display: inline-block;   
-	background: url(img/mark-dark.png) no-repeat; 
+	background: url(http://servicenadom.ru/wp-content/themes/it-men/img/mark-dark.png) no-repeat; 
 	margin: 0 10px 2px 10px;
 }
 
@@ -802,7 +802,7 @@ table tr:nth-child(odd) td {
 	width: 26px;  
 	height: 26px; 
 	position: absolute; 
-	background: url(img/search.png) no-repeat 0 -26px;  
+	background: url(http://servicenadom.ru/wp-content/themes/it-men/img/search.png) no-repeat 0 -26px;  
 	right: 1px;  
 	top: 2px;  
 	cursor: pointer;  
@@ -811,7 +811,7 @@ table tr:nth-child(odd) td {
 }
 
 .side-content .sidebar .widget_search .search-button:hover { 
-	background: url(img/search.png) no-repeat 0 0;
+	background: url(http://servicenadom.ru/wp-content/themes/it-men/img/search.png) no-repeat 0 0;
 }
 
 .side-content .sidebar.sidebar-top { 
@@ -1109,7 +1109,7 @@ ul.menu > li > ul.sub-menu ul {
 	display: inline-block;  
 	width: 16px;   
 	height: 16px;  
-	background: url(img/hint.png) no-repeat;
+	background: url(http://servicenadom.ru/wp-content/themes/it-men/img/hint.png) no-repeat;
 	font-weight: normal;  
 	vertical-align: -3px;  
 	margin: 0 0px;
@@ -1388,7 +1388,7 @@ textarea:focus {
 .modal .close {
     width: 30px;
     height: 30px;
-    background: url(img/close.png);
+    background: url(http://servicenadom.ru/wp-content/themes/it-men/img/close.png);
     position: absolute;
     right: 10px;
     top: 10px;
